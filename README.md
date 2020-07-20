@@ -1,4 +1,5 @@
-# IFSP_BRA_Docs_Apoio
-Materiais de Apoio para Disciplinas ministradas no IFSP-BRA
+## IFSP_BRA_Docs_Apoio
 
-Para ter uma leitura agradável, faça o clone do repositório e abra os arquivos em seu navegador preferido.
+Materiais de Apoio para Disciplinas ministradas no IFSP-BRA.
+
+Para ter uma leitura agradável, faça o download do repositório e abra os arquivos em seu navegador preferido.
