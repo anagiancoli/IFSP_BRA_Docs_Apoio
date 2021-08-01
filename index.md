@@ -17,5 +17,4 @@ Bons estudos! 👋
 
 <div>
   Profa. Ana Paula Müller Giancoli
-  <a href="https://anagiancoli.github.io"><img align="center" alt="Ana-Github" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg'></a>
 </div>
