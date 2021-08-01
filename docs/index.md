@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Repositório IFSP_BRA_Docs_Apoio
 
-You can use the [editor on GitHub](https://github.com/anagiancoli/IFSP_BRA_Docs_Apoio/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+#### Neste local, você encontra:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🗒️ Materiais de Apoio para os componentes curriculares ministrados no Instituto Federal de Educação, Ciência e Tecnologia (IFSP), no campus de Bragança Paulista (BRA).
 
-### Markdown
+- 📖 Para ter uma leitura agradável, efetue o _download_ do repositório e abra os arquivos em seu navegador preferido.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 📤 Qualquer eventual dúvida, entre em contato por e-mail: _paulagiancoli@ifsp.edu.br_.
 
-```markdown
-Syntax highlighted code block
+<div><img align="right" height="149" width="150" alt="Ana" src="https://cdn.discordapp.com/attachments/871199836752457749/871201441715474432/Ana.png" />
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+<div align="right">
+Bons estudos! 👋 
+</div>
 
-- Bulleted
-- List
+  ##
+  
+<div>
+  Profa. Ana Paula Müller Giancoli
+  <a href="https://anagiancoli.github.io"><img align="center" alt="Ana-Github" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg'></a>
+</div>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anagiancoli/IFSP_BRA_Docs_Apoio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
